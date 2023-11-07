@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .dark {
+    background-color: black;
+    color: white;
+  }
+  
+  .light {
+    background-color: white;
+    color: black;
+  }
+  
